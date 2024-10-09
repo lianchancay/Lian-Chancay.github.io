@@ -1,5 +1,4 @@
-# Lian-Chancay.github.io
- cybersecurity school projects
+Cybersecurity school projects
  UofU CYBBERSECURITY BOOTCAMP PROJECTS.
  
 This cybersecurity repository is a collection of projects from the University of Utah - Salt Lake City Cybersecurity Bootcamp.
